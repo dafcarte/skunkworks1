@@ -16,3 +16,4 @@ Supporting articles:
 
 + Programmatic access in Azure: https://medium.com/@crlmas07/programmatic-access-to-azure-portal-d925ea90831e
 + Secure patterns in Azure: https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns
++ Proper patterns for Terraform: https://www.terraform.io/docs/cloud/guides/recommended-practices/part1.html
