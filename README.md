@@ -10,8 +10,14 @@ https://tekanaid.com/posts/hashicorp-vault-azure-secrets-engine-secure-your-azur
 
 Eventually would be good to identify specific technical controls and map to requirements.
 
-We'll start with a local dev environement. Azure will have a staging environment and a production environment.
+We'll start with a local dev environement. Azure will have a staging environment and a production environment.We'll also have one workspace for networking and one for our app. All in, here's the list:
 
++ skunks-app-dev
++ skunks-app-stage
++ skunks-app-prod
++ networking-dev
++ networking-stage
++ networking-prod
 
 Supporting articles:
 
