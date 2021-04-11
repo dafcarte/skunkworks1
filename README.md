@@ -10,6 +10,7 @@ https://tekanaid.com/posts/hashicorp-vault-azure-secrets-engine-secure-your-azur
 
 Eventually would be good to identify specific technical controls and map to requirements.
 
+We'll start with a local dev environement. Azure will have a staging environment and a production environment.
 
 
 Supporting articles:
