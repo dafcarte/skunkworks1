@@ -5,3 +5,5 @@
 git fetch --all
 git reset --hard main
 git pull origin main
+
+chmod +x *.sh
