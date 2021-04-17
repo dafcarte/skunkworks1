@@ -23,7 +23,7 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o 
 sudo apt-get update
 
 #install the docker engine
-sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt-get install docker
 
 #create the docker group
 sudo groupadd docker
