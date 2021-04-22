@@ -25,3 +25,7 @@ Supporting articles:
 + Secure patterns in Azure: https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns
 + Proper patterns for Terraform: https://www.terraform.io/docs/cloud/guides/recommended-practices/part1.html
 + Discussion on Terraform variable definitions, useful for defining workspaces: https://www.terraform.io/docs/language/values/variables.html
+
+Other supporting tools:
+
++ Automated Control Tests for Terraform: https://github.com/fugue/regula#introduction
